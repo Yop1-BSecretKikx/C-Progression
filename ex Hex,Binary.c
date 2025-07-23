@@ -48,7 +48,7 @@ int main() {
         //Odd
         //Convert To Hex
 
-        int Number_to_hex1[16];
+        int Number_to_hex1[9];
         printf("%d is a %s => Coverting to Hex ",Number,Odd_TXT);
 
 
